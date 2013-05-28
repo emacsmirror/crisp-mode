@@ -1,0 +1,11 @@
+* Wisp Mode
+
+A major mode for the Lisp-to-JavaScript language [[https://github.com/krisajenkins/crisp][Crisp]].
+
+** Usage
+
+=M-x inferior-lisp= will start a REPL.
+
+** Status
+
+Ready to use, but fairly basic. Feedback welcomed.
